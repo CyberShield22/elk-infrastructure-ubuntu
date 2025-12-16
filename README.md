@@ -12,7 +12,7 @@ De esta forma, se logra una plataforma capaz de ofrecer **visibilidad completa s
 
 La solución combina buenas prácticas de administración de sistemas Linux, gestión de red y herramientas de observabilidad modernas, constituyendo una base sólida para entornos DevOps o de seguridad en la nube.
 
-![image.png](Implantaci%C3%B3n%20de%20un%20sistema%20monitorizaci%C3%B3n%20de%20red%20y/image.png)
+![image.png](Implantaci%C3%B3n%20de%20un%20sistema%20monitorizaci%C3%B3n%20de%20red%20y%20análisis%20de%20logs/image.png)
 
 # 1. Ubuntu server
 
